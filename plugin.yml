@@ -1,0 +1,6 @@
+name: FarmManager
+main: JunKR\FarmManager
+version: 1.0.0
+author: JunKR
+api:
+  - 3.0.0
