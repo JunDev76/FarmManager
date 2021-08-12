@@ -38,7 +38,7 @@ class Beetroot extends Crops{
     }
 
     public function getName() : string{
-        return "Beetroot Block";
+        return "딸기";
     }
 
     public function onRandomTick() : void{

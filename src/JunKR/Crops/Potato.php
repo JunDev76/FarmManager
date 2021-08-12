@@ -36,7 +36,7 @@ class Potato extends Crops{
     }
 
     public function getName() : string{
-        return "Potato Block";
+        return "고추";
     }
 
     public function getDropsForCompatibleTool(Item $item) : array{

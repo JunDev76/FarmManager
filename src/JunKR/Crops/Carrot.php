@@ -36,7 +36,7 @@ class Carrot extends Crops{
     }
 
     public function getName() : string{
-        return "Carrot Block";
+        return "고구마";
     }
 
     public function getDropsForCompatibleTool(Item $item) : array{
